@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/prachii-jain/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -21,4 +22,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/prachii-jain/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
+## Sorting
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
