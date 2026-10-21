@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/prachii-jain/leetcode/tree/master/0875-koko-eating-bananas) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/prachii-jain/leetcode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/prachii-jain/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
