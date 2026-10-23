@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/prachii-jain/leetcode/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prachii-jain/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
 ## Sorting
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/prachii-jain/leetcode/tree/master/0386-lexicographical-numbers) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/prachii-jain/leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
