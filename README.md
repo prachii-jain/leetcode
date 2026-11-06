@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/prachii-jain/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prachii-jain/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
+| [2747-count-zero-request-servers](https://github.com/prachii-jain/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prachii-jain/leetcode/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prachii-jain/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
+| [2747-count-zero-request-servers](https://github.com/prachii-jain/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Sorting
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
+| [2747-count-zero-request-servers](https://github.com/prachii-jain/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/prachii-jain/leetcode/tree/master/0051-n-queens) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/prachii-jain/leetcode/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
