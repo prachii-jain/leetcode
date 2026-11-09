@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/prachii-jain/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prachii-jain/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
+| [1539-kth-missing-positive-number](https://github.com/prachii-jain/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2747-count-zero-request-servers](https://github.com/prachii-jain/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/prachii-jain/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/prachii-jain/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Depth-First Search
 |  |
 | ------- |
