@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prachii-jain/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/prachii-jain/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/prachii-jain/leetcode/tree/master/0051-n-queens) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prachii-jain/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prachii-jain/leetcode/tree/master/0015-3sum) |
 | [1122-relative-sort-array](https://github.com/prachii-jain/leetcode/tree/master/1122-relative-sort-array) |
 | [2747-count-zero-request-servers](https://github.com/prachii-jain/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Counting Sort
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/prachii-jain/leetcode/tree/master/0190-reverse-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/prachii-jain/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
