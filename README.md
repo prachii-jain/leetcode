@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/prachii-jain/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/prachii-jain/leetcode/tree/master/0205-isomorphic-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/prachii-jain/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/prachii-jain/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/prachii-jain/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
