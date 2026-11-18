@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/prachii-jain/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/prachii-jain/leetcode/tree/master/0205-isomorphic-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prachii-jain/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/prachii-jain/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Backtracking
 |  |
 | ------- |
