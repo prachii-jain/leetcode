@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prachii-jain/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/prachii-jain/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/prachii-jain/leetcode/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prachii-jain/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prachii-jain/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/prachii-jain/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prachii-jain/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -108,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prachii-jain/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prachii-jain/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prachii-jain/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prachii-jain/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
